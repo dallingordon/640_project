@@ -22,7 +22,7 @@ This is where the images are stored.  /Imgaes/PreRequest contains the images bef
 <i>reverse_request:</i></t> This is a data augmentation opportunity that we will look into in later steps.  Our thinking is that we can swap the photoshopped and the input images to generate the opposite request.</br>
 <i>link:</i></t> Link the the reddit image source.</br>
 <i>watermark:</i></t> If a watermark is present.</br>
-<i>difficulty_:</i></t> A column for each group member to asses the request difficulty.</br>
+<i>difficulty_:</i></t> A column for each group member to asses the request difficulty, as well as our average. Scores between 1 to 5.</br>
 
 <h2>Image_Comparison.ipynb</h2>
 Images and requests displayed.
