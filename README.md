@@ -14,7 +14,7 @@ This is where the images are stored.  /Imgaes/PreRequest contains the images bef
 <h3>Images.csv</h3>
     This file contains data on each image with the following headers:</br></br>
 <i>id:</i></t> unique identifier</br>
-<i>pre_request_file_name:</i></t> File name for the pre-request. (input) image</br>
+<i>pre_request_file_name:</i></t> File name for the pre-request (input) image.</br>
 <i>post_request_file_name:</i></t> Human generated photoshopped image.</br>
 <i>sd_file_name:</i></t> Stable diffusion result.</br>
 <i>dalle_2_name:</i></t> Dall-e 2 result.</br>
