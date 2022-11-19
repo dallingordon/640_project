@@ -1,7 +1,10 @@
 
 
 https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/train_text_to_image.py#L549
- is where the noise is coming in
+ this is the target image
+
+ https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/train_text_to_image.py#L552
+ is input image
 
 https://github.com/CompVis/stable-diffusion/blob/main/scripts/img2img.py#L235
 is what should get plugged in there
